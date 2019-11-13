@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: cherry.al@foxmail.com
 description: "hello."
 keyword: "BY,ALMovingbricks, 蕾酱的博客, AL, 蕾酱要搬砖, iOS, Apple, iPhone"
-url: "https://almovingbricks.github.io"          # your host, for absolute URL
+url: "http://almovingbricks.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings

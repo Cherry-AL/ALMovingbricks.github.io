@@ -1,27 +1,27 @@
 # Site settings
 title: ALMovingbricks
-SEOTitle: ALMovingbricks | BY Blog
+SEOTitle: AL | BY Blog
 header-img: img/post-bg-desk.jpg
 email: cherry.al@foxmail.com
 description: "hello."
 keyword: "BY,ALMovingbricks, 蕾酱的博客, AL, 蕾酱要搬砖"
-url: "ALMovingbricks.github.io"          # your host, for absolute URL
+url: "https://ALMovingbricks.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "蕾酱搬砖"
-sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     
-github_username:    Cherry-AL
-facebook_username:  
-jianshu_username:   
+zhihu_username:  ""   
+github_username: Cherry-AL
+facebook_username: "" 
+jianshu_username:   ""
 #twitter_username:   qiubaiying
 
 
